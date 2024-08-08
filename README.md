@@ -1,0 +1,1 @@
+This repository contains the codebase for SDE-Portfolio, a full-stack web application developed to Portfolio Website. The application is built using modern web technologies and follows best practices for scalable and maintainable code.
